@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrhannahvr&label=Profile%20views&color=0e75b6&style=flat" alt="vrhannahvr" /> </p>
 
+- 🌱 I’m currently learning **Rust**
+
+- 👨‍💻 All of my projects are available here on Github [s](s)
+
+- 💬 Ask me about **C#, Unity, GIMP, Sharp3D, Adobe Software**
+
+- 📫 How to reach me **s**
+
+- ⚡ Fun fact **I Play VRChat Since 2018, I Worked On Avatars And Worlds for Hours, I Currently Own 2 VR Headset and 4 Trackers.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
