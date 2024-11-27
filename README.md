@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#, Unity, GIMP, Sharp3D, Adobe Software**
 
-- 📫 How to reach me **s**
+- 📫 How to reach me **Discord: hannah_vr**
 
 - ⚡ Fun fact **I Play VRChat Since 2018, I Worked On Avatars And Worlds for Hours, I Currently Own 2 VR Headset and 4 Trackers.**
 
